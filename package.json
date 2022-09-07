@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/raulfabiofn.lwc-l7rdelwk",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve R35ZHotEki9tAfcC6rtD --open"
+  }
+}
